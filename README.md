@@ -19,4 +19,4 @@ There are *two* ways by you can submit your code as listed below.
 
 - Your code will be reviewed on basis of First come, First served.
 - Have patience if you are on the bottom of the list.
-- I will be probably reviewing your code twice a week i.e. Saturdays and Sundays. So you may wait for some time till you get a reply.
+- I will be probably reviewing your code twice a week i.e. Saturdays and Sundays. So you may have to wait for some time till you get a reply.
